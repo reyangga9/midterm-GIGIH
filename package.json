@@ -1,0 +1,31 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon server",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "ejs": "3.1.9",
+    "express": "4.18.2",
+    "express-ejs-layouts": "2.5.1",
+    "mongoose": "^7.4.0",
+    "nodemon": "2.0.22",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "javascript",
+    "starter"
+  ]
+}
