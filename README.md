@@ -150,6 +150,16 @@ To run the application locally, follow these steps:
    npm run start
    ```
 
+
+
    This command will execute the script defined in the `start` field of the "scripts" section in your `package.json` file. Usually, this script starts your application using nodemon, which helps to automatically restart the server whenever changes are detected, making the development process more convenient.
 
 5. Once the server is running, you should be able to access your application locally by navigating to the appropriate address in your web browser (http://localhost:3000)
+
+## Simple Step for how to run
+```
+1. go to your visual studio code and open terminal "git clone https://github.com/reyangga9/midterm-GIGIH"
+2. cd to midterm-Gigih and npm i body-parser dotenv ejs express express-ejs-layouts mongoose nodemon
+3. npm run start
+```
+
