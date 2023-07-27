@@ -28,5 +28,5 @@ app.use("/", indexRoute);
 app.use("/videos", videosRoute);
 
 app.listen(port, () => {
-  console.log("Server berjalan di port 1234");
+  console.log(`Server berjalan di port ${port}`);
 });
