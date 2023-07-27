@@ -159,7 +159,7 @@ To run the application locally, follow these steps:
 ## Simple Step for how to run
 ```
 1. go to your visual studio code and open terminal "git clone https://github.com/reyangga9/midterm-GIGIH"
-2. cd to midterm-Gigih and npm i body-parser dotenv ejs express express-ejs-layouts mongoose nodemon
+2. cd to midterm-Gigih and install this at terminal->  "npm i body-parser dotenv ejs express express-ejs-layouts mongoose nodemon"
 3. npm run start
 ```
 
