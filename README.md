@@ -161,5 +161,6 @@ To run the application locally, follow these steps:
 1. go to your visual studio code and open terminal "git clone https://github.com/reyangga9/midterm-GIGIH"
 2. cd to midterm-Gigih and install this at terminal->  "npm i body-parser dotenv ejs express express-ejs-layouts mongoose nodemon"
 3. npm run start
+4. to check some videobyId and see the comment -> http://localhost:3000/videos/64c23cfbb484ae1bf5cf9eed
 ```
 
